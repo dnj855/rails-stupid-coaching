@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+
+.link {
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
